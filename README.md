@@ -4,7 +4,7 @@ A face recognition system that detects and identifies faces in images or real-ti
 It can be used for security, authentication, and surveillance purposes.
 
 - Features
-- 
+
 Face Detection: Locates faces in images or videos.
 
 Face Recognition: Identifies or verifies individuals from a database.
